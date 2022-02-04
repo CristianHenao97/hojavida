@@ -5,6 +5,8 @@ import Idiomas from 'components/Hero/Idiomas';
 import Cursos from 'components/Hero/Cursos';
 import Perfil from 'components/Hero/Perfil';
 import Informacion from 'components/Hero/Infomacion';
+import Interes from 'components/Hero/Interes';
+import Hobbies from 'components/Hero/Hobbies';
 
 function App() {
   return (
@@ -15,6 +17,8 @@ function App() {
       <Cursos />
       <Perfil />
       <Informacion />
+      <Interes />
+      <Hobbies />
     </div>
   );
 }
