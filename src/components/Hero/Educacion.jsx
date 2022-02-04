@@ -4,11 +4,11 @@ function Educacion() {
   return (
     <div>
       <h1 className='Informacion , Caracteristicas md:w-11/12 md:mx-7 md:text-lg '>
-        Informacion Personal
+        Información Personal
       </h1>
-      <div className='InformacionCuerpo md:w-10/12 md:mx-8 md:text-sm p-1 '>
+      <div className='InformacionCuerpo md:w-9/12 md:ml-14 md:text-sm p-1 '>
         <h2 className='Textocuerpo md:text-sm '>
-          Nombre: Cristian Andes Henao Londoño
+          Nombre: Cristian Andres Henao Londoño
         </h2>
         <h2 className='Textocuerpo md:text-sm'>
           Correo: cristian.henaol@udea.edu.co

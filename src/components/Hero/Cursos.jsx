@@ -6,7 +6,7 @@ function Cursos() {
       <h1 className='Caracteristicas'>Cursos y certificaciones</h1>
       <div className='CursosCuerpo md:w-10/12 md:mx-8 p-1'>
         <h2 className='Textocuerpo md:text-sm md:p-1 '>
-          Curso basico de mantenimiento de computadores.
+          Curso básico de mantenimiento de computadores.
         </h2>
       </div>
     </div>
