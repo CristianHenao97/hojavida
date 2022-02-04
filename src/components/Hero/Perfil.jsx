@@ -2,10 +2,10 @@ import 'styles/globals.css';
 
 function Perfil() {
   return (
-    <div className='Perfil md:w-1/2 md:mx-24 sm:mx-4  md:justify-center lg:justify-center items-center'>
+    <div className='Perfil md:w-11/12 md:mx-7 md:text-lg'>
       <h1 className='Caracteristicas'>Perfil</h1>
-      <div className='PerfilCuerpo md:w-1/2 xl:w-1/8 md:mx-20 sm:mx-4  md:justify-center lg:justify-center items-center'>
-        <h2 className='Textocuerpo'>
+      <div className='PerfilCuerpo md:w-10/12 md:mx-8 md:p-2 md:text-lg'>
+        <h2 className='Textocuerpo md:p-1 md:text-sm'>
           Soy un estudiante de ingeniería de sistemas con capacidad de
           aprendizaje rápido y apasionado en aumentar mi conocimiento,me gusta
           aprender cosas nuevas y afrontar nuevos retos que me permitan mejorar

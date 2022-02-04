@@ -67,12 +67,11 @@ color: #2521FF;
 }
 
 .IdiomaCuerpo{
+text-align: left;
 position: absolute;
 width: 324px;
 height: 43px;
 left: 25px;
-
-text-align: center;
 background: #FDFF88;
 color: #000000;
 }
@@ -95,6 +94,7 @@ color: #000000;
     width: 327px;
     height: 24px;
     left: 25px;
+    text-align: left;
     
     
     /* Amarillo claro */
@@ -119,7 +119,7 @@ position: absolute;
 width: 334px;
 height: 173px;
 left: 20px;
-
+text-align: left;
 
     background: #FDFF88;
     color: #000000; 
@@ -141,7 +141,7 @@ left: 20px;
 width: 326px;
 height: 100px;
 left: 21px;
-
+text-align: left;
 
 /* Amarillo claro */
 
@@ -167,6 +167,7 @@ background: #FDFF88;
     left: 20px;  
 color: #000000; 
 background: #FDFF88;
+text-align: left;
 }
 
 .Hobbies{

@@ -6,7 +6,7 @@ import foto from './images/foto.png';
 
 ReactDOM.render(
   <React.StrictMode>
-    <img className='Imagen sm:mx-4  sm:justify-center sm:justify-center items-center' src={foto} alt='foto' />
+    <img className='Imagen' src={foto} alt='foto' />
     <App />
   </React.StrictMode>,
   document.getElementById('root')
